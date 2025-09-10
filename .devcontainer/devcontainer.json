@@ -3,6 +3,11 @@
 	"image": "mcr.microsoft.com/devcontainers/go:2-1.25-bookworm",
 	"features": {
 		"ghcr.io/eitsupi/devcontainer-features/go-task:1": {},
-		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {},
+		"ghcr.io/devcontainers-extra/features/digitalocean-cli:1": {},
+		"ghcr.io/devcontainers-extra/features/ffmpeg-apt-get:1": {},
+		"ghcr.io/devcontainers/features/github-cli:1": {},
+		"ghcr.io/joshuanianji/devcontainer-features/github-cli-persistence:1": {},
+		"ghcr.io/devcontainers-extra/features/cloudinary-cli:1": {}
 	}
 }
